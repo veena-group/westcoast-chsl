@@ -33,7 +33,7 @@ function Navbar() {
         <a href="#home" className="brand" onClick={closeMenu}>
           <span className="brand__mark">W</span>
           <span className="brand__text">
-            <span className="brand__name">West Coast CHS</span>
+            <span className="brand__name">West Coast Avinash</span>
             <span className="brand__sub">Est. 1966 &middot; Andheri (W)</span>
           </span>
         </a>

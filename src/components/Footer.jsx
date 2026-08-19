@@ -24,12 +24,12 @@ function Footer() {
             <div className="footer__brand">
               <span className="footer__mark">W</span>
               <span className="footer__brand-text">
-                <span className="footer__brand-name">West Coast CHS</span>
+                <span className="footer__brand-name">West Coast Avinash</span>
                 <span className="footer__brand-sub">Regn. No.: BOM/HSG/1172 of 1966</span>
               </span>
             </div>
             <p className="footer__about">
-              West Coast Co-operative Housing Society Ltd., 7 Bungalows, Andheri West, Mumbai.
+              West Coast Avinash Co-operative Housing Society Ltd., 7 Bungalows, Andheri West, Mumbai.
             </p>
             <MotionLink className="btn btn--accent footer__cta" to="/login" {...tapHover}>
               Member Login
@@ -76,7 +76,7 @@ function Footer() {
         </motion.div>
 
         <div className="footer__bottom">
-          <p className="footer__copy">West Coast CHS &copy; 2026. All rights reserved.</p>
+          <p className="footer__copy">West Coast Avinash &copy; 2026. All rights reserved.</p>
           <p className="footer__credit">
             Designed and Developed by{' '}
             <a href="https://theveenagroup.com/" target="_blank" rel="noopener">

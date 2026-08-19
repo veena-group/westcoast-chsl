@@ -62,7 +62,7 @@ function About() {
               Six decades of community living in the heart of Andheri West
             </motion.h2>
             <motion.p className="about__para" variants={fadeInLeft}>
-              Registered in 1966 under registration number BOM/HSG/1172, West Coast Co-operative
+              Registered in 1966 under registration number BOM/HSG/1172, West Coast Avinash Co-operative
               Housing Society Ltd. is one of the established residential societies of 7 Bungalows,
               Andheri West. The society is home to families who have lived here across generations.
             </motion.p>
@@ -102,7 +102,7 @@ function About() {
             <img
               className="about__img"
               src="https://images.pexels.com/photos/129494/pexels-photo-129494.jpeg?auto=compress&cs=tinysrgb&w=800"
-              alt="West Coast Co-operative Housing Society building, Avinash"
+              alt="West Coast Avinash Co-operative Housing Society building"
             />
             <div className="about__badge">
               <span className="about__badge-num">1966</span>

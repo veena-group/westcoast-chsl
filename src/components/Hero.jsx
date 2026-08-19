@@ -29,7 +29,7 @@ function Hero() {
           Regn. No.: BOM/HSG/1172 of 1966
         </motion.p>
         <motion.p className="hero__text" variants={fadeUp}>
-          West Coast Co-operative Housing Society has been home to generations of families at 7
+          West Coast Avinash Co-operative Housing Society has been home to generations of families at 7
           Bungalows, Andheri West. A well-managed society, a well-kept building, and neighbours who
           look out for one another.
         </motion.p>

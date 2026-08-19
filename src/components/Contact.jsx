@@ -77,7 +77,7 @@ function Contact() {
               <span className="contact__card-body">
                 <span className="contact__card-label">Address</span>
                 <span className="contact__card-value">
-                  West Coast Co-op. Housing Society Ltd.
+                  West Coast Avinash Co-op. Housing Society Ltd.
                   <br />
                   5/121, J. P. Road, &ldquo;Avinash&rdquo;, 7 Bungalows,
                   <br />

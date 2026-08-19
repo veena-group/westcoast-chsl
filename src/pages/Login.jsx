@@ -79,7 +79,7 @@ function Login() {
           </Link>
         </motion.div>
         <motion.p className="login__logo-name" variants={fadeUp}>
-          West Coast CHS
+          West Coast Avinash
         </motion.p>
 
         <motion.p className="login__subtitle" variants={fadeUp}>
