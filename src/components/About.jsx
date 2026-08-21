@@ -101,7 +101,7 @@ function About() {
           >
             <img
               className="about__img"
-              src="https://images.pexels.com/photos/129494/pexels-photo-129494.jpeg?auto=compress&cs=tinysrgb&w=800"
+              src="/images/building-1.jpg"
               alt="West Coast Avinash Co-operative Housing Society building"
             />
             <div className="about__badge">

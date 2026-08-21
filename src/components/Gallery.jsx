@@ -5,32 +5,12 @@ const GALLERY_ITEMS = [
   {
     caption: 'The building',
     modifier: 'gallery__item--tall',
-    image: 'https://images.pexels.com/photos/21284473/pexels-photo-21284473.jpeg?auto=compress&cs=tinysrgb&w=900',
+    image: '/images/building-1.jpg',
   },
   {
-    caption: 'Entrance lobby',
+    caption: 'The building',
     modifier: '',
-    image: 'https://images.pexels.com/photos/19227221/pexels-photo-19227221.jpeg?auto=compress&cs=tinysrgb&w=900',
-  },
-  {
-    caption: 'Garden area',
-    modifier: '',
-    image: 'https://images.pexels.com/photos/27307398/pexels-photo-27307398.jpeg?auto=compress&cs=tinysrgb&w=900',
-  },
-  {
-    caption: 'Parking',
-    modifier: '',
-    image: 'https://images.pexels.com/photos/17000801/pexels-photo-17000801.jpeg?auto=compress&cs=tinysrgb&w=900',
-  },
-  {
-    caption: 'Terrace',
-    modifier: '',
-    image: 'https://images.pexels.com/photos/33415133/pexels-photo-33415133.jpeg?auto=compress&cs=tinysrgb&w=900',
-  },
-  {
-    caption: 'Society events',
-    modifier: 'gallery__item--wide',
-    image: 'https://images.pexels.com/photos/31874011/pexels-photo-31874011.jpeg?auto=compress&cs=tinysrgb&w=1400',
+    image: '/images/building-2.jpg',
   },
 ]
 

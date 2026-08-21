@@ -8,7 +8,7 @@ function Hero() {
       <div className="hero__bg">
         <img
           className="hero__photo"
-          src="https://images.pexels.com/photos/27302669/pexels-photo-27302669.jpeg?auto=compress&cs=tinysrgb&w=1600"
+          src="/images/hero.jpg"
           alt=""
         />
       </div>
